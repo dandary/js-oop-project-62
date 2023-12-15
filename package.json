@@ -1,0 +1,19 @@
+{
+  "name": "js-oop-project-62",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/dandary/js-oop-project-62/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/dandary/js-oop-project-62/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandary/js-oop-project-62.git"
+  },
+  "author": "Alia Timeeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandary/js-oop-project-62/issues"
+  },
+  "homepage": "https://github.com/dandary/js-oop-project-62#readme"
+}
